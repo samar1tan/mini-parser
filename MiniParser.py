@@ -1,7 +1,7 @@
 import sys
 import traceback
 from treelib import Tree
-from MiniScanner import MiniScanner
+from mini_scanner import MiniScanner
 
 
 def find_last(string, word):

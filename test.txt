@@ -1,0 +1,12 @@
+//复杂表达式
+bool a = a+b&&c/d&f|g^h%(s+3);
+// 循环语句
+while ((a==c)>=8-3*d){
+	f = 5>=test;
+}
+// 条件语句
+if (c >= b)  {
+    int c = b;
+} else if (a==3) {
+    b = c;
+}#
